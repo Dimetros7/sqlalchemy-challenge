@@ -1,6 +1,8 @@
-The SurfsUp folder contains the working project files and the Resources folder.
+Resources folder contains resources files
+The SurfsUp folder contains the working project files.
 app.py is the Python file used to run a development Flask application.
 climate_starter.ipynb is a Jupyter Notebook file used for climate data analysis.
+
 Instructions:
 
 Clone the repository.
